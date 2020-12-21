@@ -21,10 +21,18 @@
     </item>
     
     <item>
-      <title>Project</title>
-      <link>/project/</link>
-      <pubDate>Mon, 21 Dec 2020 18:11:56 +0300</pubDate>
-      <guid>/project/</guid>
+      <title>My_personal_project</title>
+      <link>/project/my_personal_project/</link>
+      <pubDate>Mon, 21 Dec 2020 18:14:17 +0300</pubDate>
+      <guid>/project/my_personal_project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My_group_project</title>
+      <link>/project/my_group_project/</link>
+      <pubDate>Mon, 21 Dec 2020 18:13:53 +0300</pubDate>
+      <guid>/project/my_group_project/</guid>
       <description></description>
     </item>
     

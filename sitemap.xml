@@ -38,8 +38,33 @@
   </url>
   
   <url>
+    <loc>/project/my_personal_project/</loc>
+    <lastmod>2020-12-21T18:14:17+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/</loc>
-    <lastmod>2020-12-21T18:11:56+03:00</lastmod>
+    <lastmod>2020-12-21T18:14:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/golos-elizaveta/</loc>
+    <lastmod>2020-12-21T18:13:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/konyukhov-roman/</loc>
+    <lastmod>2020-12-21T18:13:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/my_group_project/</loc>
+    <lastmod>2020-12-21T18:13:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/popkova-elena/</loc>
+    <lastmod>2020-12-21T18:13:53+03:00</lastmod>
   </url>
   
   <url>
