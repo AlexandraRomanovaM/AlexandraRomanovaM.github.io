@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Romanova Alexandra | Academic</title>
+    <link>/author/romanova-alexandra/</link>
+      <atom:link href="/author/romanova-alexandra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Romanova Alexandra</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Dec 2020 18:23:42 +0300</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
-      <link>/</link>
+      <title>Romanova Alexandra</title>
+      <link>/author/romanova-alexandra/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/diplom/</link>
       <pubDate>Mon, 21 Dec 2020 18:23:42 +0300</pubDate>
       <guid>/publication/diplom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project</title>
-      <link>/project/</link>
-      <pubDate>Mon, 21 Dec 2020 18:11:56 +0300</pubDate>
-      <guid>/project/</guid>
       <description></description>
     </item>
     
