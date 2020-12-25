@@ -1,90 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>/publication/diplom/</loc>
-    <lastmod>2020-12-21T18:23:42+03:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>en/sitemap.xml</loc>
+    
+      <lastmod>2020-12-21T18:23:42+03:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2020-12-21T18:23:42+03:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>ru/sitemap.xml</loc>
+    
+      <lastmod>2020-12-21T18:23:42+03:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-12-21T18:23:42+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-12-21T18:23:42+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-12-21T18:23:42+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-12-21T18:23:42+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/romanova-alexandra/</loc>
-    <lastmod>2020-12-21T18:23:42+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/my_personal_project/</loc>
-    <lastmod>2020-12-21T18:14:17+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2020-12-21T18:14:17+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/golos-elizaveta/</loc>
-    <lastmod>2020-12-21T18:13:53+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/konyukhov-roman/</loc>
-    <lastmod>2020-12-21T18:13:53+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/my_group_project/</loc>
-    <lastmod>2020-12-21T18:13:53+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/popkova-elena/</loc>
-    <lastmod>2020-12-21T18:13:53+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/alexandra-romanova/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>

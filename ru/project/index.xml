@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>/ru/project/</link>
+      <atom:link href="/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Mon, 21 Dec 2020 18:14:17 +0300</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>Мой персональный проект</title>
+      <link>/ru/project/my_personal_project/</link>
+      <pubDate>Mon, 21 Dec 2020 18:14:17 +0300</pubDate>
+      <guid>/ru/project/my_personal_project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Групповой проект</title>
+      <link>/ru/project/my_group_project/</link>
+      <pubDate>Mon, 21 Dec 2020 18:13:53 +0300</pubDate>
+      <guid>/ru/project/my_group_project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

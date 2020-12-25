@@ -7,16 +7,32 @@
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Dec 2020 18:23:42 +0300</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
       <link>/</link>
     </image>
     
     <item>
       <title> Mathematical methods for evaluating derivatives</title>
+      <link>/en/publication/diplom/</link>
+      <pubDate>Mon, 21 Dec 2020 18:23:42 +0300</pubDate>
+      <guid>/en/publication/diplom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Mathematical methods for evaluating derivatives</title>
       <link>/publication/diplom/</link>
       <pubDate>Mon, 21 Dec 2020 18:23:42 +0300</pubDate>
       <guid>/publication/diplom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My personal project</title>
+      <link>/en/project/my_personal_project/</link>
+      <pubDate>Mon, 21 Dec 2020 18:14:17 +0300</pubDate>
+      <guid>/en/project/my_personal_project/</guid>
       <description></description>
     </item>
     
@@ -29,7 +45,15 @@
     </item>
     
     <item>
-      <title>My group project</title>
+      <title>Group project</title>
+      <link>/en/project/my_group_project/</link>
+      <pubDate>Mon, 21 Dec 2020 18:13:53 +0300</pubDate>
+      <guid>/en/project/my_group_project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group project</title>
       <link>/project/my_group_project/</link>
       <pubDate>Mon, 21 Dec 2020 18:13:53 +0300</pubDate>
       <guid>/project/my_group_project/</guid>
